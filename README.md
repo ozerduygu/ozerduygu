@@ -1,4 +1,4 @@
-### Hi I'm Duygu Özer. I'm Computer Engineer and Front End Developer 👋
+### Hi I'm Duygu Özer. I'm Computer Engineer and .NET Developer 👋
 
 # 💫 About Me:
 👀 I'm improving my skills and knowledge as a .net developer.<br>🌱 <br>📫 How to reach me: ozer.duygu@outlook.com
